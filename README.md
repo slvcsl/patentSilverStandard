@@ -1,8 +1,7 @@
 # Creating a Silver Standard for Patent Simplification
 This repo contains the materials for the paper "Creating a Silver Standard for Patent Simplification" (SIGIR 2023).
 
-This repo is WIP. 
-If you have any questions, feel free to contact me. 
+If you have any questions, feel free to contact me at silvia.casolaATunitoDOTit. 
 
 
 Please cite:
